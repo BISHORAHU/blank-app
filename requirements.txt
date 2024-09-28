@@ -2,3 +2,4 @@ clarifai==10.2.0
 langchain==0.1.12
 streamlit==1.24.0
 langchain-community==0.0.28
+sqlite3
